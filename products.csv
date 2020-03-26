@@ -1,0 +1,11 @@
+id,products_name,department_id,price,stock_quantity
+1,CZ Rings,1,15.99,1000
+2,Watches,2,25.99,500
+3,Bracelets,3,19.99,250
+4,Necklaces,4,21.99,250
+5,Scarfs,5,15.99,250
+6,Totes,6,5.99,120
+7,Brooches,7,5.99,120
+8,Popcorn Shirts,8,25.99,250
+9,Pashminas,9,15.99,250
+10,Sunglasses,2,19.99,48
