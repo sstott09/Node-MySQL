@@ -1,0 +1,21 @@
+ItemID	ProductName	DepartmentName	Price	StockQuantity
+1	CZ Rings	Rings	5	1000
+2	Watches	Watches	5	500
+3	Straight Bracelets	Bracelets	5	250
+4	Necklaces	Necklaces	5	250
+5	Scarfs	Scarfs	5	250
+6	Totes	Bags	5	120
+7	Brooches	Brooches	5	120
+8	Popcorn Shirts	Popcorn Shirts	5	250
+9	Pashminas	Pashminas	5	250
+10	Ring Watches	Watches	5	48
+11	Sunglasses	Glasses	5	250
+12	Collegiate Lunch Bags	Lunch Bags	5	120
+13	Religious Necklaces	Necklaces	5	120
+14	Quartz Paperweights	Accessories	5	72
+15	Magnetic Stretch Bracelets	Bracelets	5	250
+16	Manicure Sets	Accessories	5	120
+17	Reading Glasses	Glasses	5	250
+18	Leather Hanging purses	Bags	5	72
+19	Leather Wallets-Mens	Wallets	5	72
+20	Leather Wallets-Womens	Wallets	5	72
