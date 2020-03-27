@@ -20,9 +20,9 @@ Node and MySql Shopping App. Takes in user-inputed data in terminal, in the form
  * "inquirer"
  * "cli-table2"
 <br></br>
-After that, you may then run the app. Simply type in the following into your terminal: --> "node apexCustomer"
+After that, you may then run the app. Simply type the following into your terminal: --> "node apexCustomer"
 <br></br>
-You should see a list of products and prices display. The user may choose any of the 10 products by inputting the appropriate product ID number followed by how many they would like.
+You should see a list of products and prices display. The user may choose any of the 10 products by inputting the appropriate product ID number followed by how many items they would like to purchase.
 
 ### Build Tools
 <ul>
