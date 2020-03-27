@@ -8,7 +8,7 @@
 
 ### Preview
 ![preview](https://github.com/sstott09/Node-MySQL/blob/master/media/APEXessentials_DB%20-%20MySQL.png)
-![preview](https://github.com/sstott09/Node-MySQL/blob/master/media/node%20apexCustomer%20-%20Terminal.png)
+![preview](https://github.com/sstott09/Node-MySQL/blob/master/media/apex-essentials-customer-transaction.png)
 
 ### About
 Node and MySql Shopping App. Takes in user-inputed data in terminal, in the form of product ID and quantity they wish to purchase, and uses it to update product list in a MySql database.
