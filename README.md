@@ -19,7 +19,7 @@ Node and MySql Shopping App. Takes in user-inputed data in terminal, in the form
  * "mysql"
  * "inquirer"
  * "cli-table2"
-
+<br></br>
 After that, you may then run the app. Simply type in the following into your terminal:
 
 --> node apexCustomer
