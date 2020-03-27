@@ -77,7 +77,7 @@ var shopping = function () {
                     shopping();
                     } else {
                         console.log("");
-                        console.log(res[0].products_name + "purchased" );
+                        console.log(res[0].products_name + " purchased" );
                         console.log(quantity + " qty @ $" + res[0].price);
 
                         var newQuantity = res[0].stock_quantity - quantity;
