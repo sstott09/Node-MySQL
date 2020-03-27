@@ -7,7 +7,8 @@
 <li><a href="#acknowledgements">Acknowledgements</a></li>
 
 ### Preview
-![preview](https://github.com/sstott09/PAWS.2.2/blob/master/client/public/PAWS%20-%20New%20Adoption%20Checklist.gif?raw=true)
+![preview](https://github.com/sstott09/Node-MySQL/blob/master/media/APEXessentials_DB%20-%20MySQL.png)
+![preview](https://github.com/sstott09/Node-MySQL/blob/master/media/node%20apexCustomer%20-%20Terminal.png)
 
 ### About
 Node and MySql Shopping App. Takes in user-inputed data in terminal, in the form of product ID and quantity they wish to purchase, and uses it to update product list in a MySql database.
